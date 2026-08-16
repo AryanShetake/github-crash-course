@@ -1,6 +1,6 @@
 function sub(a,b){
     return a-b;
 }
-function sub(a,b,c){
-    return a-c;
+function subthree(a,b,c){
+    return a-b-c;
 }
